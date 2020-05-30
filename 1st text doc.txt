@@ -1,0 +1,1 @@
+test to see under which circumestence the commit function works
